@@ -1,0 +1,33 @@
+body {
+    margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.business-card {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin: 0 auto;    
+    text-align: center;
+    color: #f1faee;
+    background: #a8dadc;
+    border-bottom: 6px solid #e63946;
+    border-right: 6px solid #e63946;
+    border-radius: 10px;
+}
+
+.personal-info {
+    color: #1d3557;
+}
+
+img {
+    border: 2px inset #457b9d;
+    border-radius: 5px;
+}
+
+
